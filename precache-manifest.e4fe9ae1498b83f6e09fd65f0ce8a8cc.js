@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a47a3c9588896b15053c44d63bebbeb1",
+    "revision": "8b1fb77028f34f530e3bc0c3f66fbbd0",
     "url": "/emoji-garden/index.html"
   },
   {
-    "revision": "a465b6cc08da13c1d66c",
+    "revision": "a831bcec629e5f1aa9e2",
     "url": "/emoji-garden/static/css/main.8bc6e8fa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emoji-garden/static/js/2.a61521a3.chunk.js"
   },
   {
-    "revision": "a465b6cc08da13c1d66c",
-    "url": "/emoji-garden/static/js/main.832870b4.chunk.js"
+    "revision": "a831bcec629e5f1aa9e2",
+    "url": "/emoji-garden/static/js/main.cdfdb85e.chunk.js"
   },
   {
     "revision": "ea3e0a6a9f969ce9dc6d",
